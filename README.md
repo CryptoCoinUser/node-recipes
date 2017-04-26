@@ -1,4 +1,4 @@
-Recipies
+Recipes
 ================
 
 https://github.com/CryptoCoinUser/node-recipes
